@@ -70,14 +70,14 @@ else {
 </div>
 </div><!-- form-group Ends -->
 <div class="form-group" ><!-- form-group Starts -->
-<label class="col-md-3 control-label">FingerPrint Image:</label>
+<!--<label class="col-md-3 control-label">FingerPrint Image:</label>
 <div class="col-md-6">
 <div class="row"><div class="col-md-6">	
 <img style="height:150px;" src="admin_images/bgfinger.jpg" class="img-responsive">
 </div><div class="col-md-6">
 <img style="height:150px;" src="admin_images/bgfinger.jpg" class="img-responsive">
 </div></div>
-</div>
+</div>-->
 </div><!-- form-group Ends -->
 <div class="form-group" ><!-- form-group Starts -->
 <label class="col-md-3 control-label"></label>

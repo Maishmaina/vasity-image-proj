@@ -199,15 +199,10 @@ echo "<option value='$course'>$course</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" >FingerPrint</label>
+<label class="col-md-3 control-label" ></label>
 
 <div class="col-md-6" >
 <input type="hidden" name="student_fingerprint">
-<div class="row"><div class="col-md-6">	
-<img style="height:150px;" src="admin_images/bgfinger.jpg" class="img-responsive">
-</div><div class="col-md-6">
-<img style="height:150px;" src="admin_images/bgfinger.jpg" class="img-responsive">
-</div></div>
 </div>
 
 </div><!-- form-group Ends -->
